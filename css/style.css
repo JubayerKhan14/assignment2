@@ -1,0 +1,46 @@
+.logo img {
+    width:50%;
+}
+.card-border{
+    border:0px;
+}
+}
+h1{
+    font-size:60px;
+}
+.card-image img {
+    width:90%;
+}
+.img-bg img {
+    background-color: bisque;
+    border-radius: 5px;
+}
+.img-bg{
+    border:0;
+   
+}
+.card-bg{
+    background-color:whitesmoke;
+}
+.img-bg2{
+    border:0px;
+
+}
+.bottom-image img{
+    width:90%;
+  
+}
+.bottom-card{
+    border:0;
+   
+}
+.bottom-left img {
+    width:45%;
+}
+#about-us{
+    margin:60px;
+   
+}
+.left-bg{
+    background-color: honeydew;
+}
