@@ -1,6 +1,9 @@
 .logo img {
     width:50%;
 }
+.nav-bar{
+    background-color: cyan;
+}
 .card-border{
     border:0px;
 }
