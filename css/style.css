@@ -4,10 +4,16 @@
 .card-border{
     border:0px;
 }
+.h-one{
+    font-size: 60px;
+    font-weight: 800;
 }
-h1{
-    font-size:60px;
+.h-three{
+    font-size: 40px;
+    font-weight: 600;
+    color:gray;
 }
+
 .card-image img {
     width:90%;
 }
